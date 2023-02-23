@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    volumes:
+      - ./php-ini/php.ini:/usr/local/etc/php/conf.d/custom.ini
+      - .:/var/www/html/
+    ports:
+      - "80:80"

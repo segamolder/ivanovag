@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toyota Landcruiser 200 Series Stock
+* source:	https://sketchfab.com/3d-models/toyota-landcruiser-200-series-stock-959b346272c54e37a2cf2008c3e1547a
+* author:	Pitstop 3D (https://sketchfab.com/Pitsop3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toyota Landcruiser 200 Series Stock" (https://sketchfab.com/3d-models/toyota-landcruiser-200-series-stock-959b346272c54e37a2cf2008c3e1547a) by Pitstop 3D (https://sketchfab.com/Pitsop3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

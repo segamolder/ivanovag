@@ -1,0 +1,9 @@
+
+OWeb:AvoidCommentedOutCodeCheckB"Remove this commented out code.(λΰζ8ψ£Ϋη0
+PWeb:AvoidCommentedOutCodeCheckC"Remove this commented out code.(€­„ϊ8ω£Ϋη0
+PWeb:AvoidCommentedOutCodeCheckJ"Remove this commented out code.(ύ―ª„8ω£Ϋη0
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8›Òλοη0
+kphp:S103"KSplit this 170 characters long line (which is greater than 120 authorized).(θ΄ϊÿÿÿÿ8λί–ση0
+kphp:S103"KSplit this 131 characters long line (which is greater than 120 authorized).(¨²”λόÿÿÿÿ8Κθμοη0
+fphp:S103&"KSplit this 157 characters long line (which is greater than 120 authorized).(Δς·Κ8Òλοη0
+:php:S113"'Add a new line at the end of this file.8Òλοη0

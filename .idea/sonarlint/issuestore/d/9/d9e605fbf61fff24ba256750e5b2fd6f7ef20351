@@ -1,0 +1,8 @@
+
+^	php:S1808+"=Move this open curly brace to the beginning of the next line.(¼çĞ›øÿÿÿÿ8‹»çòç0
+j	php:S1808,"IPut one space between this "foreach" keyword and the opening parenthesis.(ãëÎ®ùÿÿÿÿ8‹»çòç0
+3php:S113"'Add a new line at the end of this file.
+fphp:S112'"FDefine and throw a dedicated exception instead of using a generic one.(İ í“şÿÿÿÿ8©çÆòç0
+Pphp:S121-"0Add curly braces around the nested statement(s).(¢¡ï³ıÿÿÿÿ8Œ»çòç0
+Pphp:S121/"0Add curly braces around the nested statement(s).(öŞ‰ùÿÿÿÿ8Œ»çòç0
+Pphp:S121."0Add curly braces around the nested statement(s).(††ÜØúÿÿÿÿ8Œ»çòç0

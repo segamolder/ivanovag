@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jeep Comanche Stock
+* source:	https://sketchfab.com/3d-models/jeep-comanche-stock-2d9064203ca64ecaae9730b2b7e88ac4
+* author:	Pitstop 3D - 4x4 (https://sketchfab.com/Pitstop3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jeep Comanche Stock" (https://sketchfab.com/3d-models/jeep-comanche-stock-2d9064203ca64ecaae9730b2b7e88ac4) by Pitstop 3D - 4x4 (https://sketchfab.com/Pitstop3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
