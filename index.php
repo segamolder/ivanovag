@@ -53,7 +53,7 @@
 {
 	"imports": {
 		"three": "/js/modules/three.module.js",
-		"three/addons/": "http://localhost/js/modules/three-addons/"
+		"three/addons/": "/js/modules/three-addons/"
 	}
 }
 
