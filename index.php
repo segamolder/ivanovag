@@ -25,14 +25,15 @@
                 if ($folder != '.' && $folders != '..' && ($files = scandir($mainScenesDirPath . DIRECTORY_SEPARATOR . $folder))) {
                     $binFile = '';
                     $gltfFile = '';
-                    array_map(function ($file) use (&$binFile, &$gltfFile) {
+
+                    foreach ($files as $file) {
                         if (strpos($file, '.bin') !== false) {
                             $binFile = rtrim($file, '.bin');
                         }
                         if (strpos($file, '.gltf') !== false) {
                             $gltfFile = rtrim($file, '.gltf');
                         }
-                    }, $files);
+                    }
 
                     if ($binFile && $gltfFile) {
                         echo '<li class="file" data-folder="' . $folder . '" data-bin="' . $binFile . '" data-gltf="' . $gltfFile . '">' . $folder . '</li>';
